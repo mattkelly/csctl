@@ -20,6 +20,8 @@ Available Commands:
   export      Export a resource
   get         Get a resource
   help        Help about any command
+  login       Log in to Containership cloud
+  logout      Log out of the CLI
   scale       Scale a node pool
   ssh         SSH into nodes of a cluster
   upgrade     Upgrade a cluster node pool or resource
