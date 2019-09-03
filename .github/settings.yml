@@ -1,0 +1,6 @@
+_extends: containership/probot-root:.github/_settings.yml
+
+repository:
+    name: csctl
+    description: Containership CLI and Official Go Client
+    private: false
